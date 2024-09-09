@@ -15,12 +15,12 @@
   },
   "autoload": {
     "psr-4": {
-      "R1KO\\PhpMigrate\\": "src/"
+      "R1KO\\Migrate\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "R1KO\\PhpMigrate\\Tests\\": "tests/"
+      "R1KO\\Migrate\\Tests\\": "tests/"
     }
   }
 }

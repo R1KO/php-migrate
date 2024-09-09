@@ -1,12 +1,12 @@
 <?php
 
-namespace R1KO\PhpMigrate;
+namespace R1KO\Migrate;
 
-use R1KO\PhpMigrate\Contracts\ManagerInterface;
-use R1KO\PhpMigrate\Contracts\MigrationModelInterface;
-use R1KO\PhpMigrate\Contracts\MigratorInterface;
-use R1KO\PhpMigrate\Contracts\OutputInterface;
-use R1KO\PhpMigrate\Contracts\StorageInterface;
+use R1KO\Migrate\Contracts\ManagerInterface;
+use R1KO\Migrate\Contracts\MigrationModelInterface;
+use R1KO\Migrate\Contracts\MigratorInterface;
+use R1KO\Migrate\Contracts\OutputInterface;
+use R1KO\Migrate\Contracts\StorageInterface;
 use Throwable;
 
 class Migrator implements MigratorInterface

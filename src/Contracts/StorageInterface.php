@@ -1,6 +1,6 @@
 <?php
 
-namespace R1KO\PhpMigrate\Contracts;
+namespace R1KO\Migrate\Contracts;
 
 interface StorageInterface
 {
